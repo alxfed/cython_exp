@@ -7,7 +7,6 @@ setup(
     version='0.0.1',
     url='https://github.com/alxfed/cython_exp',
     author='alxfed',
-    author_email='alxfed@gmail.com',
     description='Cython experiments',
     ext_modules=[module]
 )
